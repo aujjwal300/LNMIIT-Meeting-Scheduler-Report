@@ -8,7 +8,7 @@ Tech Stack Used:<br/>
 •	Styling: Tailwind CSS<br/>
 •	Integration: Google Calendar API<br/>
 
-Steps:<br/>
+Steps:
 1.	Login with LNMIIT ID: Users must log in using their LNMIIT ID for authentication.
 2.	Participant List: Users can input a list of email IDs of people they wish to invite to the meeting. Bulk input is supported for convenience.
 3.	Date Selection: Choose the desired meeting date from the provided calendar.
@@ -17,11 +17,11 @@ Steps:<br/>
 6.	Common Availability: The bottom of the page shows the common free slots available for scheduling.
 7.	Schedule Google event: Users can click on a preferred free slot, and the app will populate the Google Calendar with the necessary details for easy meeting scheduling.
 
-Future Work:<br/>
+Future Work:
 1.	Guidelines for Faculty and Staff: Develop guidelines and encourage faculty and staff members to use Google Calendar for their classes and labs.
 2.	Permission and Multiple Calendar Management: Implement a robust permission system to ensure that the app has the necessary access to check free slots and can manage participants' multiple Google Calendars.
 
-Challenges:<br/>
+Challenges:
 1.	Faculty Adoption: Encouraging faculty and staff to consistently use Google Calendar for scheduling.
 2.	Permission Handling: Managing permissions for accessing and retrieving calendar data from participants.
 3.	Integration Complexity: Dealing with the intricacies of integrating with the Google Calendar API.
