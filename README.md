@@ -6,9 +6,9 @@ The conventional process of scheduling meetings at our college involves tedious 
 
 Tech Stack Used:
 
-•	Frontend Framework: ReactJS with Vite
-•	Styling: Tailwind CSS
-•	Integration: Google Calendar API
+•	Frontend Framework: ReactJS with Vite <br/>
+•	Styling: Tailwind CSS<br/>
+•	Integration: Google Calendar API<br/>
 
 Steps:
 
