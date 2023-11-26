@@ -9,7 +9,7 @@
 %•	Integration: Google Calendar API<br/>
 
 %### Steps:
-%1.	Login with LNMIIT ID: Users must log in using their LNMIIT ID for authentication.
+// 1.	Login with LNMIIT ID: Users must log in using their LNMIIT ID for authentication.
 %2.	Participant List: Users can input a list of email IDs of people they wish to invite to the meeting. Bulk input is supported for convenience.
 %3.	Date Selection: Choose the desired meeting date from the provided calendar.
 %4.	Fetch Availability: Click the "Fetch" button to retrieve and visualize free slots of participants from 8 am to 6 pm (Default and can change accordingly).
