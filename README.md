@@ -30,3 +30,8 @@ The conventional process of scheduling meetings at our college involves tedious 
 ![image](https://github.com/aujjwal300/LNMIIT-Meeting-Scheduler-Report/assets/77393707/8c15e8e1-e0a9-44b9-8e8b-0d8f62c81966)
 ![image](https://github.com/aujjwal300/LNMIIT-Meeting-Scheduler-Report/assets/77393707/3913a91a-a5fb-4e8e-973e-61560ced9ad8)
 
+![image](https://github.com/aujjwal300/LNMIIT-Meeting-Scheduler-Report/assets/77393707/80644789-6c1e-47d2-91ab-ae5f4c79296a)
+
+![image](https://github.com/aujjwal300/LNMIIT-Meeting-Scheduler-Report/assets/77393707/0ff34054-f01a-45cb-95a6-94cb339de527)
+
+
