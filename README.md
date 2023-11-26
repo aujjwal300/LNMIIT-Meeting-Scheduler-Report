@@ -1,4 +1,4 @@
-LNMIIT Meeting Scheduler
+#LNMIIT Meeting Scheduler
 
 Problem Statement:<br/>
 The conventional process of scheduling meetings at our college involves tedious back-and-forths, making it time-consuming and prone to errors. To streamline this, we propose a solution that integrates with Google Calendar and allows users to efficiently identify and book common free slots based on the availability of participants in Google Calendar. 
