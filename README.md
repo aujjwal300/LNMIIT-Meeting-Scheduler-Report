@@ -1,6 +1,7 @@
-[//]: <> (# LNMIIT Meeting Scheduler)
+<!---
+# LNMIIT Meeting Scheduler
 
-%### Problem Statement:<br/>
+### Problem Statement:<br/>
 %The conventional process of scheduling meetings at our college involves tedious back-and-forths, making it time-consuming and prone to errors. To streamline this, we propose a solution that integrates with Google Calendar and allows users to efficiently identify and book common free slots based on the availability of participants in Google Calendar. 
 
 %### Tech Stack Used:<br/>
@@ -29,7 +30,7 @@
 %### Screenshots:
 %![image](https://github.com/aujjwal300/LNMIIT-Meeting-Scheduler-Report/assets/77393707/8c15e8e1-e0a9-44b9-8e8b-0d8f62c81966)
 %![image](https://github.com/aujjwal300/LNMIIT-Meeting-Scheduler-Report/assets/77393707/3913a91a-a5fb-4e8e-973e-61560ced9ad8)
-
+-->
 
 ![image](https://github.com/aujjwal300/LNMIIT-Meeting-Scheduler-Report/assets/77393707/80644789-6c1e-47d2-91ab-ae5f4c79296a)
 
